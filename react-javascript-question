@@ -1,0 +1,189 @@
+JAVASCRIPT
+
+Data types, variables, and operators
+Control flow (conditional statements, loops)
+Functions (declaration, invocation, parameters, return values)
+Arrays (methods, iteration)
+Objects (properties, methods, prototypes)
+ES6 features (arrow functions, let/const, template literals)
+Closures and advantages and scope
+Hoisting
+Event loop
+Block scope and shadowing in js
+Data encapsulation, constructor garbage collector
+Prototype in js
+(Coding + extra quiz) All about Synchronous programming
+Asynchronous JavaScript (callbacks, promises, async/await)
+Functions type(named, anonymous, expression, func statement/declaration with uses)
+First class func
+Error handling and debugging
+Modules and module loaders (e.g., CommonJS, ES modules)
+DOM manipulation
+Fetch Api
+Window object
+call, apply , bind
+OOps
+Global object
+Local and Session storage
+Blocking the main thread
+Events (onclick, onchange, onload etc)
+Debouncing, Throttling
+setTimeout, setInterval
+hof (map, reduce , filter)
+Promise APIs
+Pollyfill, momoization
+(coding + extra quiz) All about asynchronous prog
+Hoisting (let, var)
+Function currying
+Block scope, function scope, shadowing
+Event bubbling vs. event propagation
+Shallow copy and deep copy
+Event delegation and its use case
+
+THESE QUE FROM CHATGPT 50 MOST ASKED IT COULD BE REPEAT ABOVE ONES
+
+Here are 50 commonly asked JavaScript questions, covering a range of topics from basic concepts to advanced features:
+
+Basics
+What is JavaScript and how is it different from Java?
+What are the different data types in JavaScript?
+What is the difference between let, const, and var?
+Explain hoisting in JavaScript.
+What are JavaScript closures and how do they work?
+What is the difference between == and ===?
+What are JavaScript arrow functions and how do they differ from regular functions?
+How does the this keyword work in JavaScript?
+What are template literals in JavaScript?
+What are JavaScript promises and how do they work?
+Advanced Functions
+What is function currying in JavaScript?
+What is the difference between call(), apply(), and bind()?
+What are higher-order functions in JavaScript?
+Explain the concept of callback functions in JavaScript.
+What is the event loop in JavaScript?
+Asynchronous JavaScript
+What is the difference between synchronous and asynchronous code in JavaScript?
+How do you use async and await in JavaScript?
+What is the Fetch API and how is it used?
+What is the purpose of setTimeout and setInterval?
+How do you handle errors in asynchronous code?
+DOM Manipulation
+What is the DOM and how do you interact with it in JavaScript?
+How do you select elements in the DOM?
+How do you create and append elements in the DOM?
+What is event delegation and why is it useful?
+How do you add and remove event listeners in JavaScript?
+Object-Oriented Programming
+What is prototypal inheritance in JavaScript?
+What are JavaScript classes and how do they work?
+What are getter and setter methods in JavaScript?
+Explain the concept of a constructor function.
+What is the difference between classical inheritance and prototypal inheritance?
+Error Handling
+How do you handle exceptions in JavaScript?
+What is the purpose of try, catch, finally?
+What are custom errors and how do you create them in JavaScript?
+Modules and Patterns
+What are JavaScript modules and how do you use them?
+What is the module pattern in JavaScript?
+How do you implement the singleton pattern in JavaScript?
+What is the observer pattern and how is it used in JavaScript?
+Performance and Optimization
+What are web workers and how do they improve performance?
+How do you optimize JavaScript performance?
+What is debouncing and throttling in JavaScript?
+Best Practices
+What are some common best practices for writing JavaScript code?
+How do you ensure code quality in JavaScript?
+What is the purpose of using strict mode in JavaScript?
+What are IIFEs (Immediately Invoked Function Expressions) and why are they used?
+Miscellaneous
+What is JSON and how do you parse and stringify it in JavaScript?
+What is the difference between local storage, session storage, and cookies?
+How do you implement deep and shallow copy of objects in JavaScript?
+What is the difference between mutable and immutable objects in JavaScript?
+What are JavaScript generators and how do they work?
+What are service workers and how do they work in JavaScript?
+
+REACT QUESTION 
+
+Reactjs
+JSX (syntax and usage)
+Components (class components, functional components)
+Props and state (passing data, managing component state)
+React lifecycle methods
+Event handling and synthetic events
+Conditional rendering
+Lists and keys
+Forms and form handling
+
+17/05/2024 – Reactjs -2
+React Router (client-side routing)
+React context and hooks (e.g., useContext, useState, useEffect, useref, useContext)
+Event bubbling
+Virtual DOM
+High order component
+Controlled and uncontrolled compo
+Reconcilliation in reactjs
+
+another 50 most asked question 
+Here are 50 commonly asked React.js questions, covering a range of topics from basic concepts to advanced features:
+
+Basics
+What is React.js and why is it used?
+What are the main features of React?
+What is JSX?
+What is the Virtual DOM and how does it work?
+What are components in React?
+What is the difference between functional and class components?
+What are props in React?
+How do you pass data between components in React?
+What is state in React?
+How do you manage state in a React component?
+Lifecycle Methods
+What are React lifecycle methods?
+Explain the componentDidMount lifecycle method.
+What is the componentDidUpdate method used for?
+What is the componentWillUnmount method used for?
+How do you use the shouldComponentUpdate method?
+Hooks
+What are React Hooks?
+Explain the useState Hook.
+How do you use the useEffect Hook?
+What is the useContext Hook and how is it used?
+Explain the useReducer Hook.
+What is the useRef Hook and how do you use it?
+How do you create custom Hooks in React?
+Advanced Concepts
+What are higher-order components (HOCs) in React?
+What are render props in React?
+What is the Context API and how is it used?
+What are React fragments and why are they used?
+What is the difference between controlled and uncontrolled components?
+How do you handle forms in React?
+What is React Router and how do you use it?
+How do you handle redirects and navigation in React Router?
+What is the purpose of React.memo?
+What are React portals and how are they used?
+State Management
+What are some popular state management libraries for React?
+How do you use Redux with React?
+What is the purpose of actions and reducers in Redux?
+How do you use the useSelector and useDispatch hooks in Redux?
+What is the Context API and how does it compare to Redux?
+Performance Optimization
+How do you optimize the performance of a React application?
+What is code splitting and how do you implement it in React?
+How do you use the React.lazy and Suspense components for lazy loading?
+What is memoization and how does it help in React?
+Testing
+What are some common testing libraries used with React?
+How do you write unit tests for React components?
+What is the purpose of the act function in React testing?
+How do you test asynchronous code in React?
+Miscellaneous
+What are error boundaries in React and how do you implement them?
+How do you handle side effects in React applications?
+What is the difference between props.children and render props?
+What are some common security concerns with React applications?
+How do you handle internationalization (i18n) in React?
